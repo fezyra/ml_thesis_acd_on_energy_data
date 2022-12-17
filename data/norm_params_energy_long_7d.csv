@@ -1,0 +1,10 @@
+cols,min,max
+load_actual,1520.0736512856547,93696.0
+solar_generation,0.0,27634.0
+wind_generation,0.0,39231.0
+price_day_ahead,-43.37030088601227,139.849774612223
+temperature,-14.549,34.298
+radiation_direct_horizontal,0.0,890.2876
+radiation_diffuse_horizontal,0.0,412.0575
+year,2015.0,2017.0
+ID,0.0,3.0

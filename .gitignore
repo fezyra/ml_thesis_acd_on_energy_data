@@ -1,0 +1,15 @@
+# History files
+.Rhistory
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+old/
+.ipynb_checkpoints/
+plots/
